@@ -21,7 +21,7 @@ pkg install python
 pkg install git
 pip install colorama 
 pip install python-dotenv
-git clone https://github.com/darksasa1-eng/SASA-DEV-WHATSAPP-BAN-TOOL.git
+git clone [[https://github.com/darksasa1-eng/SASA-DEV-WHATSAPP-BAN-TOOL-V1.git]
 cd Crypto-banning-tools
 python ban.py
 ```
@@ -31,13 +31,13 @@ python ban.py
 ```bash
 sudo apt update && sudo apt install python3 python3-pip git
 pip3 install colorama python-dotenv
-git clone https://github.com/CRYPTOLORD25/Crypto-banning-tools.git
+git clone https://github.com/darksasa1-eng/SASA-DEV-WHATSAPP-BAN-TOOL-V1.git
 cd Crypto-bannig-tools
 python3 ban.py
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0A7BE1&center=true&vCenter=true&width=600&lines=Crypto+Lord+Banning+Tools;Coded+by+Crypto+Lord+himself" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0A7BE1&center=true&vCenter=true&width=600&lines=POWERD+BY+SASA+DEV+OFC" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,4 +46,4 @@ python3 ban.py
 
 We are not responsible for any damage.. 
 
-Build 100% with Love ❤ By Crypto Lord Himself
+Build 100% with Love ❤ By Sasa Dev Ofc
