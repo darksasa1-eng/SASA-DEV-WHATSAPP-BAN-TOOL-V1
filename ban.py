@@ -26,7 +26,7 @@ support_emails = [
 
 
 def banner():
-    print(f"{Fore.CYAN}\n===[ 𝗖𝗥𝗬𝗣𝗧𝗢 𝗟𝗢𝗥𝗗 𝗕𝗔𝗡𝗡𝗜𝗡𝗚 𝗧𝗢𝗢𝗟𝗦 ]==={Style.RESET_ALL}")
+    print(f"{Fore.CYAN}\n===[ SASA DEV WHATSAPP BAN TOOLS ]==={Style.RESET_ALL}")
     print(Fore.YELLOW + r"""
    ⣴⣾⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢸⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -81,7 +81,7 @@ def simulate_reports(number, total):
     for i in range(1, total + 1):
         print(f"{Fore.RED}☠️ 𝗦𝗲𝗻𝗱𝗶𝗻𝗴 𝗔𝘁𝘁𝗮𝗰𝗸 𝘁𝗼 {number} 𝗔𝗺𝗼𝘂𝗻𝘁 {i}")
         time.sleep(0.05)
-    print(f"{Fore.GREEN}✅ {total} 𝗕𝗮𝗻 𝘄𝗮𝘀 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱👌💯 𝗼𝗻 𝗧𝗮𝗿𝗴𝗲𝘁🎯 {number}.")
+    print(f"{Fore.GREEN}✅ {total} 𝗕𝗮𝗻 𝘄𝗮𝘀 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗼𝗻 𝗧𝗮𝗿𝗴𝗲𝘁 👅 {number}.")
 
 def save_perm_ban(number):
     with open(perm_file, "a") as f:
@@ -240,7 +240,7 @@ while True:
     elif choice == "5":
         view_banned()
     elif choice == "6":
-        print(f"{Fore.CYAN}👋 𝗘𝘅𝗶𝘁𝗶𝗻𝗴. 𝗦𝘁𝗮𝘆 𝘀𝗮𝗳𝗲, 𝗖𝗿𝘆𝗽𝘁𝗼 𝗟𝗼𝗿𝗱 𝗛𝗮𝗰𝗸𝗲𝗿!")
+        print(f"{Fore.CYAN}👋 Bye - Powerd by Sasa Dev Ofc!")
         break
     else:
         print(f"{Fore.RED}❌ 𝗜𝗻𝘃𝗮𝗹𝗶𝗱 𝗰𝗵𝗼𝗶𝗰𝗲.")
