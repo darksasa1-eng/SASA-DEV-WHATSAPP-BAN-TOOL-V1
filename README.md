@@ -1,5 +1,5 @@
 
-# Crypto Lord Ban Tool
+# SASA DEV WHATSAPP BAN TOOL
 
 This is a Python CLI tool that allows you to simulate banning a phone number (permanently or temporarily) Using the greatest Command easily on termux 
 
@@ -21,7 +21,7 @@ pkg install python
 pkg install git
 pip install colorama 
 pip install python-dotenv
-git clone https://github.com/CRYPTOLORD25/Crypto-banning-tools.git
+git clone https://github.com/darksasa1-eng/SASA-DEV-WHATSAPP-BAN-TOOL.git
 cd Crypto-banning-tools
 python ban.py
 ```
